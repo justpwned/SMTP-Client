@@ -29,5 +29,7 @@ Subject: Email message
 This message was sent via a simple smtp client
 ```
 
+Supported headers: **FROM**, **TO**, **CC**
+
 ## Gmail Issue 
 Sending an email using Gmail SMTP server *(smtp.gmail.com, 465)* requires an application-specific password for authentication, which can be configured using [this guide]( https://devanswers.co/outlook-and-gmail-problem-application-specific-password-required/).
